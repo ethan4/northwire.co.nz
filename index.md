@@ -1,37 +1,25 @@
-## Welcome to GitHub Pages
+#Northwire Electrical
 
-You can use the [editor on GitHub](https://github.com/ethan4/northwire.co.nz/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+## WHO WE ARE
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+###RESIDENTIAL
 
-### Markdown
+For any residential electrical work new or old. No job too big or small
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+###COMMERCIAL
 
-```markdown
-Syntax highlighted code block
+For your Commercial electrical repairs/maintenance and new projects
 
-# Header 1
-## Header 2
-### Header 3
+###INDUSTRIAL
 
-- Bulleted
-- List
+We can look after your industrial electrical problems or new installations
 
-1. Numbered
-2. List
+Northwire Electrical is a local electrical business based in Kerikeri, servicing Northland. We pride ourselves on workmanship and providing quality electrical services you can trust. Local owner operater Cavitt Warth is a Registered Electrician with over 30 years experience in the electrical industry. Whether your need is residential, commercial or industrial, we can help customers in all aspects of electrical work. 
 
-**Bold** and _Italic_ and `Code` text
+###ELECTRICIANS BASED IN KERIKERI, SERVICING NORTHLAND
 
-[Link](url) and ![Image](src)
-```
+For an obligation free quote call Northwire today
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+Contact Us Today
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ethan4/northwire.co.nz/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Cavitt Warth:    P: [09 407 5973](tel:+6494075973)    M: [021 895 272](tel:+6421895272)    E: [office@northwire.co.nz](mailto:office@northwire.co.nz)
