@@ -2,7 +2,9 @@
 
 ## WHO WE ARE
 
-> Northwire Electrical is a local electrical business based in Kerikeri, servicing Northland. We pride ourselves on workmanship and providing quality electrical services you can trust. Local owner operater Cavitt Warth is a Registered Electrician with over 30 years experience in the electrical industry. Whether your need is residential, commercial or industrial, we can help customers in all aspects of electrical work. 
+> Northwire Electrical is a local electrical business based in Kerikeri, servicing Northland. We pride ourselves on workmanship and providing quality electrical services you can trust. 
+
+> Local owner operater Cavitt Warth is a Registered Electrician with over 30 years experience in the electrical industry. Whether your need is residential, commercial or industrial, we can help customers in all aspects of electrical work. 
 
 
 ### RESIDENTIAL
