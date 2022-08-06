@@ -22,4 +22,7 @@ We can look after your industrial electrical problems or new installations.
 
 For an obligation free quote call Northwire today
 
-Contact Us -  Cavitt Warth:    P: [09 407 5973](tel:+6494075973)    M: [021 895 272](tel:+6421895272)    E: [office@northwire.co.nz](mailto:office@northwire.co.nz)
+#### Contact Us
+
+Cavitt Warth
+P: [09 407 5973](tel:+6494075973)    M: [021 895 272](tel:+6421895272)    E: [office@northwire.co.nz](mailto:office@northwire.co.nz)
