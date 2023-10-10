@@ -1,0 +1,26 @@
+header .nav-link {color:#000; font-weight: 400;padding:0.3rem 0.6rem; border-radius: 3px;margin-left:1px;font-size:1.2rem;}
+.nav-link:focus, .nav-link:hover {color:#81BD41; background-color: #FFF;}
+header .nav-link.active {color:#81BD41 !important; background-color: #FFF;}
+.navbar-nav .dropdown-menu {border-radius:0;padding: 0;font-family: 'Poppins', sans-serif;}
+.dropdown-menu[data-bs-popper] {left:auto;right:0;}
+a.navbar-brand {max-width:70%;}
+header .topbar.fixed-top {padding-top:0.5rem !important;padding-bottom:0.5rem !important;border-bottom:rgba(0,0,0,0.08) 1px solid;}
+header .topbar.fixed-top .nav-link {font-size:0.9rem;}
+header .topbar.fixed-top .navbar-brand img {width:200px;}
+
+@media (max-width: 1650px) {
+	header .nav-link {font-size:14px;}
+	.navbar-expand-xl {flex-wrap:wrap;}
+	#navbarsExample05 {margin-top:10px;}
+}
+
+@media (max-width: 1680px) {
+	header .topbar.fixed-top {width: 100%;left: 0;margin-left: 0px;}
+}
+
+@media (max-width: 991.98px) {
+	header .nav-link {text-align:center;border-top:rgba(0,0,0,0.1) 1px solid;padding:0.5rem 0rem;}
+	header .top-nav-social {border-top:rgba(0,0,0,0.1) 1px solid;}
+	header .navbar-toggler {width:25%;display: inline-block;}
+	header .navbar-toggler-icon {width:2.5em;height:2.5em;}
+}
